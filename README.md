@@ -37,4 +37,6 @@ The output should shift all the characters of the string by the number of rotati
 Just my favorite language and one thing I would like changed about it.
 >I love Python due to the user friendly libraries, but I wish it was as fast as C/C++. If I could I would like Python to have 
     the speed of a low level language.
+    
+    
 ![](images/rts5.png)
