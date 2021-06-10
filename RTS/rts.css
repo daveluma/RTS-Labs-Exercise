@@ -1,0 +1,40 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.center{
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+}
+input {
+    display: inline-block;
+    width: 10em;
+    position: relative;
+    top: 1em;
+    bottom: 7em;
+  }
+  
+  label {
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+    width: 20em;
+    padding-top: 2em;
+    padding-bottom: 1em;
+  }
+
+  p {
+    padding-top: 2em;
+    text-align: center;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+  h1{
+    padding-bottom: 2em;
+    text-align: center;
+    margin-left:  auto;
+    margin-right: auto;
+  }
